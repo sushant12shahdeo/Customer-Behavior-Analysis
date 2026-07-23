@@ -9,6 +9,12 @@ revenue drivers, customer segments, and purchasing patterns for an e-commerce da
 - Power BI — interactive dashboard
 - Excel — reporting
 
+## Workflow
+1. Cleaned data (imputed missing ratings, removed redundant column) and engineered 
+   features (age groups, purchase frequency) using Python
+2. Loaded cleaned data into MySQL and wrote 10 business-focused SQL queries
+3. Built an interactive Power BI dashboard to visualize KPIs and segments
+
 ## Key Insights
 - Male customers generated 68% of total revenue ($157,890 of $233,081)
 - Clothing and Accessories drove over 75% of revenue and sales volume
